@@ -1,17 +1,42 @@
-## Hi there 👋
-![Komoliddin GitHub stats](https://github-readme-stats.vercel.app/api?username=komoliddin&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komoliddin&layout=compact&bg_color=00000000)
-<!--
-**komoliddin/komoliddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Komoliddin
 
-Here are some ideas to get you started:
+💻 Programmer from Uzbekistan
+⚙️ I like building utilities, automation tools and experimenting with system software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Statistics
+
+![Komoliddin GitHub stats](https://github-readme-stats.vercel.app/api?username=komoliddin\&show_icons=true\&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komoliddin\&layout=compact\&theme=transparent)
+
+---
+
+## 🛠 Technologies I use
+
+* C#
+* AutoHotkey
+* JavaScript
+* HTML / CSS
+* Windows automation
+* API / Bots
+
+---
+
+## 🚀 Projects
+
+* 🔧 **System Utilities**
+* 🤖 **Telegram Bots**
+* 🖥 **Automation Scripts**
+* ⚡ **Windows Tools**
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/komoliddin
+
+---
+
+⭐ If you like my projects, consider giving them a star!
