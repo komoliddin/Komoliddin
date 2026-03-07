@@ -7,57 +7,63 @@
 
 ---
 
-### 📊 GitHub Stats
+## 🧑‍💻 About Me
 
-![Stats](https://github-readme-stats-komoliddin.vercel.app/api?username=komoliddin&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats-komoliddin.vercel.app/api/top-langs/?username=komoliddin&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=komoliddin&theme=tokyonight&hide_border=true)
+- 💻 Programmer
+- ⚙️ I like building utilities and automation tools
+- 🚀 Interested in system software and scripts
 
 ---
 
-### 📈 Activity Graph
+## 🛠 Tech Stack
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komoliddin&theme=tokyo-night)
-
----
-
-### 🛠 Languages and Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,js,html,css,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,js,html,css,git,github,vscode,windows" />
 </p>
 
 ---
 
-## 🛠 Technologies I use
+## 📊 GitHub Stats
 
-* C#
-* AutoHotkey
-* JavaScript
-* HTML / CSS
-* Windows automation
-* API / Bots
+<p align="center">
 
----
+<img src="https://github-readme-stats-komoliddin.vercel.app/api?username=komoliddin&show_icons=true&theme=tokyonight&hide_border=true" />
 
-## 🚀 Projects
+<img src="https://github-readme-stats-komoliddin.vercel.app/api/top-langs/?username=komoliddin&layout=compact&theme=tokyonight&hide_border=true" />
 
-* 🔧 **System Utilities**
-* 🤖 **Telegram Bots**
-* 🖥 **Automation Scripts**
-* ⚡ **Windows Tools**
+</p>
 
 ---
 
-## 📫 Contact
+## 🔥 GitHub Streak
 
-* GitHub: https://github.com/komoliddin
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=komoliddin&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=komoliddin&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=komoliddin&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/komoliddin/komoliddin/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
