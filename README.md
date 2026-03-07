@@ -20,7 +20,6 @@
 <p align="center">
 <img src="https://vercel-4dj6pelah-komoliddins-projects-43225414.vercel.app/api?username=komoliddin&show_icons=true&theme=tokyonight" />
 <img src="https://vercel-4dj6pelah-komoliddins-projects-43225414.vercel.app/api/top-langs/?username=komoliddin&layout=compact&theme=tokyonight" />
-<img src="https://vercel-4dj6pelah-komoliddins-projects-43225414.vercel.app/api?username=komoliddin&theme=tokyonight&show_trophies=true" />
 </p>
 
 ---
@@ -29,14 +28,6 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=komoliddin&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://vercel-4dj6pelah-komoliddins-projects-43225414.vercel.app/api?username=komoliddin&theme=tokyonight&show_trophies=true" />
 </p>
 
 ---
