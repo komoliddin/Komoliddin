@@ -18,9 +18,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-komoliddin.vercel.app/api?username=komoliddin&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-komoliddin.vercel.app/api/top-langs/?username=komoliddin&layout=compact&theme=tokyonight" />
-<img src="https://github-readme-stats-komoliddin.vercel.app/api?username=komoliddin&theme=tokyonight&show_trophies=true" />
+<img src="https://vercel-4dj6pelah-komoliddins-projects-43225414.vercel.app/api?username=komoliddin&show_icons=true&theme=tokyonight" />
+<img src="https://vercel-4dj6pelah-komoliddins-projects-43225414.vercel.app/api/top-langs/?username=komoliddin&layout=compact&theme=tokyonight" />
+<img src="https://vercel-4dj6pelah-komoliddins-projects-43225414.vercel.app/api?username=komoliddin&theme=tokyonight&show_trophies=true" />
 </p>
 
 ---
@@ -29,15 +29,6 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=komoliddin&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=komoliddin&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -51,14 +42,6 @@
 ---
 
 ## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/komoliddin/komoliddin/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-⭐ If you like my projects, consider giving them a star!
 
 <p align="center">
 <img src="https://github.com/komoliddin/komoliddin/blob/output/github-contribution-grid-snake.svg" />
