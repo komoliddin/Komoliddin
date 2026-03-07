@@ -7,14 +7,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 💻 Programmer
-- ⚙️ I like building utilities and automation tools
-- 🚀 Interested in system software and scripts
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -26,11 +18,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats-komoliddin.vercel.app/api?username=komoliddin&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats-komoliddin.vercel.app/api/top-langs/?username=komoliddin&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img src="https://github-readme-stats-komoliddin.vercel.app/api?username=komoliddin&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-komoliddin.vercel.app/api/top-langs/?username=komoliddin&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-komoliddin.vercel.app/api?username=komoliddin&theme=tokyonight&show_trophies=true" />
 </p>
 
 ---
@@ -39,14 +29,6 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=komoliddin&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=komoliddin&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
