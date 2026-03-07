@@ -7,9 +7,9 @@
 
 ## 📊 GitHub Statistics
 
-![Komoliddin GitHub stats](https://github-readme-stats.vercel.app/api?username=komoliddin\&show_icons=true\&theme=transparent)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=komoliddin&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komoliddin\&layout=compact\&theme=transparent)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=komoliddin&layout=compact&theme=transparent)
 
 ---
 
